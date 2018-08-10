@@ -28,6 +28,7 @@ namespace _02._06._05PassValueFormsWithDelegate
         private void button1_Click(object sender, EventArgs e)
         {
             _del(textBox1.Text.Trim());
+            //test
         }
     }
 }
